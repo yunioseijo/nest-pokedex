@@ -3,6 +3,8 @@
 /node_modules
 /build
 
+# Ignorar archivos y carpetas de MongoDB
+mongo/
 # Logs
 logs
 *.log
